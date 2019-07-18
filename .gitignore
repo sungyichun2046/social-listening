@@ -1,0 +1,13 @@
+#.idea, pycharm
+.idea/inspectionProfiles/Project_Default.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/social-listening.iml
+.idea/vcs.xml
+.idea/workspace.xml
+scraper/__pycache__/
+
+#log
+scraper/twint-last-request.log
+scraper/twint-request_urls.log
+
